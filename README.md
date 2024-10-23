@@ -73,6 +73,7 @@ cd /vagrant/
 В этой директории уже лежат нужные файлы. Будут подгружены в репозиторий 
 
 **Содержание:**
+
 Flask-app - содержит файлы для приложения flask
 
 nginx - хранит конфиг для nginx
@@ -87,6 +88,9 @@ docker-compose.yaml
 ```bash
 docker compose up -d 
 ```
+
+![images2](./images/web_4.png)
+
 
 ---
 - Этап 3: Проверка
